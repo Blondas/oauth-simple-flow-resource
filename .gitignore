@@ -1,1 +1,79 @@
 .idea
+Project
+Gradle - GroovyGradle - KotlinMaven
+Language
+JavaKotlinGroovy
+Spring Boot
+4.1.1 (SNAPSHOT)4.1.04.0.8 (SNAPSHOT)4.0.73.5.16
+Project Metadata
+Group
+Artifact
+Package name
+Packaging
+JarWar
+Configuration
+PropertiesYAML
+Java
+26252117
+Dependencies
+
+    Spring Web Web
+    Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+    Spring Data JPA SQL
+    Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.
+    Lombok Developer Tools
+    Java annotation library which helps to reduce boilerplate code.
+
+demo.zip
+
+    .gitattributes
+    .gitignore
+    HELP.md
+    build.gradle.kts
+    gradle
+    gradlew
+    gradlew.bat
+    settings.gradle.kts
+    src
+
+DownloadCopy
+
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+Download⌘ + ⏎CloseESC
